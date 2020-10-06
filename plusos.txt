@@ -1,1 +1,10 @@
-PlusOs
+PlusOS
+
+
+
+
+https://sourceforge.net/projects/plusos/
+
+Plus operating system is hobby project. That's built to run as auxiliary OS with Major OS like Windows and Linux etc..bootable with grub2 and own boot loader.focused on eBook reading software(PDF,EPUB,MOBI,DJVU,CHM...).with programs like calculator, notepad,source code editor, hex viewer, text viewer,image viewer and many games.VESA 32bpp GUI from startup.read-only plus maybe writing support for standard file systems FAT/NTFS/EXT/CDFS.codec for archives(ZIP,RAR,7z,GZ ...).codec for image formats(JPG,BMP,GIF,PNG...).video player or at least thumbnails extract(AVI,MKV,MP4,3GP...). mountable as filesystem from ISO,ISZ file.generic drivers VBE,USB,HD Audio,Keyboard, mouse.bootable on qemu and of course on real computer systems.at least all drivers for one computer (my) this is primary goal.
+In summary goal is building a stable and usefull OS.
+A Project By Arshad Latti. Support PlusOS project on patreon https://www.patreon.com/arshadlatti to encourage.
